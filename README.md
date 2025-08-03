@@ -4,6 +4,7 @@ The chatbot responds to basic user inputs like greetings, questions, and farewel
 
 ## Features
 Responds to simple text inputs like:
+
 "hello" >> Hi 
 
 "how are you" >> I'm fine, thanks for asking
