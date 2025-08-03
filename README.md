@@ -4,12 +4,14 @@ The chatbot responds to basic user inputs like greetings, questions, and farewel
 
 Features
 Responds to simple text inputs like:
-"hello"
-"how are you"
-"bye"
-"name"
-"help"
+"hello" >> Hi 
+"how are you" >>
+"bye" >>
+"name" >>
+"help" >>
 
 Technologies Used
-Built-in functions: input(), print()
-Concepts used: if-elif, functions, loops, string methods
+Built-in functions: 
+input(), print()
+Concepts used:
+if-elif, functions, loops, string methods
